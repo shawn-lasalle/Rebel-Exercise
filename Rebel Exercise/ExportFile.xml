@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<Root>
+  <NameValuePair Value="a" Key="c" />
+  <NameValuePair Value="b" Key="a" />
+  <NameValuePair Value="c" Key="b" />
+</Root>
